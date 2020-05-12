@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 100%;
+}
+.head h1{
+	margin-left: 45%;
+}
+.box{
+	background: black;
+	border: 1px solid ;
+	float: left;
+    color: white;
+}
+.box h3{
+    color: black;
+    border: outset red;
+    float: right;
+    padding: 10px;
+    background-color:white;
+}
+.box p{
+    margin-top: 50px;
+    text-align: justify;
+   margin-right: 10px;
+   margin-left: 10px;
+}
+@media(min-width: 992px){
+	.box{
+		width: 29%;
+		margin:20px;
+	}
+}
+@media(min-width: 768px) and (max-width: 991px){
+	.box{
+		width: 40%;
+		margin:30px;
+	}
+	#bo{
+		width: 87%;
+		margin: 30px
+	}
+}
+@media(max-width: 767px){
+	.box{
+		width: 80%;
+		margin:10px;
+	}
+}
