@@ -1,0 +1,25 @@
+.bb{
+	background-color: rgb(255, 0, 21);
+}
+#header-nav{
+	background: black;
+	color: white;
+}
+.card{
+	margin:2%;
+	text-align: justify;
+	background: linear-gradient(to bottom right,green,blue);
+	color: white;
+}
+.card h4{
+	margin-left: 45%;
+}
+.card{
+	padding:1% ;
+}
+.add{
+	text-align: center;
+}
+h3{
+	margin-left: 43%;
+}
