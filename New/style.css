@@ -1,0 +1,27 @@
+body{
+    background-color:#fcd;
+}
+#header-nav{
+    background-color: rgb(255, 99, 71);
+}
+.logo{
+    float: left;
+}
+.head{
+    margin-left: 44%;
+}
+.content{
+    background-color: violet;
+    margin: 20px;
+    padding: 10px;
+}
+.content h4{
+    margin-left: 44%;
+}
+.tel{
+    float: right;
+}
+#nav2{
+    background-color: rgb(255, 81, 50);
+}
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
